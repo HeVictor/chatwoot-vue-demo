@@ -2,85 +2,45 @@
     <v-container>
         <v-layout column>
             <v-flex class="display-2 text-xs-center my-5"
-                >Big Title Goes Here</v-flex
+                >Make Every Outing Delicious</v-flex
             >
             <v-flex>
-                <div class="headline mt-3">Lorem ipsum</div>
+                <div class="headline mt-3">
+                    No outing is complete without a good meal
+                </div>
                 <p class="subheading mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Cras pulvinar risus quis mauris interdum, in euismod nibh
-                    pretium. Etiam pulvinar tincidunt dapibus. Quisque
-                    sollicitudin, mauris a consequat consectetur, turpis nisl
-                    sollicitudin enim, id consectetur neque neque nec metus.
-                    Pellentesque dolor nisi, vulputate quis lobortis ac,
-                    tincidunt et quam. Mauris pulvinar blandit nisi nec mattis.
-                    Aliquam accumsan ut sem eget efficitur. Vivamus in tortor
-                    gravida eros laoreet condimentum nec vel dui. Nullam quam
-                    massa, ultrices eget tincidunt a, pulvinar ac libero.
+                    Nothing brings down the mood more than a terrible dining
+                    experience, so let us help make every trip worthwhile.
+                    Whether you are trying to find the most authentic local
+                    cuisine in a foreign landscape, planning for a killer
+                    company function, or just itching for a midnight snack run,
+                    Food Finder has the perfect recommendation for you,
+                    on-demand and every time.
                 </p>
             </v-flex>
             <v-flex>
-                <div class="headline mt-3">Lorem ipsum</div>
+                <div class="headline mt-3">Be rewarded for your reviews</div>
                 <p class="subheading mt-3">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Cras pulvinar risus quis mauris interdum, in euismod nibh
-                    pretium. Etiam pulvinar tincidunt dapibus. Quisque
-                    sollicitudin, mauris a consequat consectetur, turpis nisl
-                    sollicitudin enim, id consectetur neque neque nec metus.
-                    Pellentesque dolor nisi, vulputate quis lobortis ac,
-                    tincidunt et quam. Mauris pulvinar blandit nisi nec mattis.
-                    Aliquam accumsan ut sem eget efficitur. Vivamus in tortor
-                    gravida eros laoreet condimentum nec vel dui. Nullam quam
-                    massa, ultrices eget tincidunt a, pulvinar ac libero.
-                </p>
-
-                <p class="subheading mt-3">
-                    Nullam nec massa eu est fringilla lobortis. Praesent in enim
-                    in justo blandit varius. Cras placerat arcu in sapien
-                    rhoncus aliquet. Sed interdum tortor et tincidunt
-                    condimentum. Etiam consequat mi leo, in suscipit odio
-                    scelerisque molestie. Nam et purus consequat, iaculis augue
-                    vel, sagittis ligula. Vestibulum aliquet vulputate erat.
-                    Phasellus id mauris mauris. Nunc a maximus dolor. Curabitur
-                    ut vestibulum arcu. Curabitur non lacus justo. Cras varius a
-                    magna in semper. Nulla eros ante, consectetur faucibus
-                    sapien eu, rhoncus imperdiet dui. Sed viverra iaculis nunc,
-                    id pulvinar massa egestas vitae.
-                </p>
-
-                <p class="subheading mt-3">
-                    Aenean erat metus, imperdiet eget nisl laoreet, venenatis
-                    ultricies ante. In interdum ante vel dictum ullamcorper.
-                    Pellentesque habitant morbi tristique senectus et netus et
-                    malesuada fames ac turpis egestas. Integer sit amet gravida
-                    diam. Aliquam in tempor metus. Fusce pellentesque pharetra
-                    sem, et luctus justo tempor dictum. Ut feugiat est sed
-                    tristique egestas. Nullam posuere a nunc in blandit.
-                    Vestibulum ante ipsum primis in faucibus orci luctus et
-                    ultrices posuere cubilia Curae; Suspendisse laoreet ultrices
-                    eros, nec malesuada enim semper sit amet. Maecenas efficitur
-                    consectetur accumsan. Etiam in aliquam turpis, ut pharetra
-                    nulla. Vestibulum malesuada, nulla id elementum cursus, nibh
-                    dui rhoncus felis, suscipit mattis felis enim sed ex.
-                    Pellentesque scelerisque aliquam lorem, vel mattis nibh
-                    tincidunt ac. Suspendisse ac nibh sit amet lacus ullamcorper
-                    maximus.
+                    Sign up and start earning FoodieBucks for every review you
+                    leave after eating at a restaurant. Earn enough and we will
+                    treat you to complimentary meals from your favourite
+                    restaurants! We also know how important it is to have real
+                    and trustworthy reviews, thus every review goes through
+                    thorough checks and validations by our team and the
+                    restaurant so you can browse our platform with confidence.
                 </p>
             </v-flex>
             <v-flex>
-                <div class="headline mt-3">Lorem ipsum</div>
+                <div class="headline mt-3">
+                    Personalized recommendations delivered weekly
+                </div>
                 <p class="subheading mt-3">
-                    Nullam nec massa eu est fringilla lobortis. Praesent in enim
-                    in justo blandit varius. Cras placerat arcu in sapien
-                    rhoncus aliquet. Sed interdum tortor et tincidunt
-                    condimentum. Etiam consequat mi leo, in suscipit odio
-                    scelerisque molestie. Nam et purus consequat, iaculis augue
-                    vel, sagittis ligula. Vestibulum aliquet vulputate erat.
-                    Phasellus id mauris mauris. Nunc a maximus dolor. Curabitur
-                    ut vestibulum arcu. Curabitur non lacus justo. Cras varius a
-                    magna in semper. Nulla eros ante, consectetur faucibus
-                    sapien eu, rhoncus imperdiet dui. Sed viverra iaculis nunc,
-                    id pulvinar massa egestas vitae.
+                    Our cutting-edge recommendation engine will take into a
+                    variety of factors of your choosing to deliver restaurant
+                    recommendations to you weekly when you sign up. Beyond
+                    allergies and dietary requirements, we will take into
+                    account factors such as your preferred cusines, price range,
+                    days of the week, and even the current weather outside!
                 </p>
             </v-flex>
         </v-layout>

@@ -25,7 +25,7 @@
             ></v-app-bar-nav-icon>
             <v-spacer class="hidden-md-and-up"></v-spacer>
             <v-toolbar-title class="mx-3">{{ appTitle }}</v-toolbar-title>
-            <v-btn flat class="hidden-sm-and-down">Menu</v-btn>
+            <v-btn flat class="hidden-sm-and-down">Search</v-btn>
             <v-spacer class="hidden-sm-and-down"></v-spacer>
             <v-btn flat class="mx-3 hidden-sm-and-down">SIGN IN</v-btn>
             <v-btn color="brown lighten-3" class="hidden-sm-and-down"
@@ -40,7 +40,7 @@ export default {
     name: 'AppNavigation',
     data() {
         return {
-            appTitle: 'Meal Prep',
+            appTitle: 'Food Finder',
             drawer: false,
             items: [{ title: 'Menu' }, { title: 'Sign In' }, { title: 'Join' }],
         };

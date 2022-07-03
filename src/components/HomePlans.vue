@@ -5,21 +5,21 @@
                 xs12
                 class="text-xs-center display-1 font-weight-black my-5"
             >
-                Available Meal Plans
+                Restaurant Picks of the Week
             </v-flex>
         </v-layout>
         <v-layout row wrap>
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-img
-                        src="http://source.unsplash.com/hjCA3ecCXAQ"
+                        src="http://source.unsplash.com/d9jcPTRD9fo"
                         height="500px"
                     >
                         <v-container fill-height fluid>
                             <v-layout fill-height>
                                 <v-flex xs12 align-end flexbox>
                                     <span class="headline white--text"
-                                        >KETO</span
+                                        >ITALIAN RESTAURANT</span
                                     >
                                 </v-flex>
                             </v-layout>
@@ -28,7 +28,7 @@
 
                     <v-card-title primary-title>
                         <div>
-                            <h3 class="headline mb-0">Keto</h3>
+                            <h3 class="headline mb-0">Italian Restaurant</h3>
                             <div>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipiscing elit. Nullam mauris felis, varius
@@ -44,14 +44,14 @@
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-img
-                        src="http://source.unsplash.com/6S27S6pZ6o0"
+                        src="http://source.unsplash.com/gKN5m528N6o"
                         height="500px"
                     >
                         <v-container fill-height fluid>
                             <v-layout fill-height>
                                 <v-flex xs12 align-end flexbox>
                                     <span class="headline white--text"
-                                        >PALEO</span
+                                        >RAMEN RESTAURANT</span
                                     >
                                 </v-flex>
                             </v-layout>
@@ -59,7 +59,7 @@
                     </v-img>
                     <v-card-title primary-title>
                         <div>
-                            <h3 class="headline mb-0">Paleo</h3>
+                            <h3 class="headline mb-0">Ramen Restaurant</h3>
                             <div>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipiscing elit. Nullam mauris felis, varius
@@ -75,14 +75,14 @@
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-img
-                        src="http://source.unsplash.com/1SPu0KT-Ejg"
+                        src="http://source.unsplash.com/I7A_pHLcQK8"
                         height="500px"
                     >
                         <v-container fill-height fluid>
                             <v-layout fill-height>
                                 <v-flex xs12 align-end flexbox>
                                     <span class="headline white--text"
-                                        >VEGAN</span
+                                        >BURGER RESTAURANT</span
                                     >
                                 </v-flex>
                             </v-layout>
@@ -90,7 +90,7 @@
                     </v-img>
                     <v-card-title primary-title>
                         <div>
-                            <h3 class="headline mb-0">Vegan</h3>
+                            <h3 class="headline mb-0">Burger Restaurant</h3>
                             <div>
                                 Lorem ipsum dolor sit amet, consectetur
                                 adipiscing elit. Nullam mauris felis, varius
