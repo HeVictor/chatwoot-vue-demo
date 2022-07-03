@@ -1,7 +1,9 @@
 <template>
     <v-container>
         <v-layout column>
-            <v-flex class="display-2 text-xs-center my-5"
+            <v-flex
+                id="main-content-title"
+                class="display-2 text-xs-center my-5"
                 >Make Every Outing Delicious</v-flex
             >
             <v-flex>

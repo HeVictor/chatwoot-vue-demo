@@ -13,7 +13,11 @@
                 Traveling abroad or just going out for a casual dinner, there's
                 always good food nearby.
             </div>
-            <v-btn fab class="mt-5 brown darken-4">
+            <v-btn
+                @click="scrollToMainContent()"
+                fab
+                class="mt-5 brown darken-4"
+            >
                 <v-icon large color="white">mdi-chevron-down</v-icon>
             </v-btn>
         </v-layout>
@@ -22,6 +26,16 @@
 
 <script>
 export default {
+    methods: {
+        scrollToMainContent() {
+            const mainContentTitleEl =
+                document.getElementById('main-content-title');
+
+            if (mainContentTitleEl) {
+                mainContentTitleEl.scrollIntoView({ behavior: 'smooth' });
+            }
+        },
+    },
     name: 'HomeHero',
 };
 </script>
