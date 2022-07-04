@@ -15,6 +15,14 @@
     };
 })(document, 'script');
 
+window.chatwootSettings = {
+    hideMessageBubble: false,
+    position: 'right',
+    locale: 'en',
+    type: 'expanded_bubble',
+    darkMode: 'auto',
+};
+
 export default {
     name: 'ChatwootWidget',
 };
